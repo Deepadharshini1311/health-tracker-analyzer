@@ -30,5 +30,5 @@ It generates a summarized health report and a line chart of steps trends.
 
 ## 👤 Author
 
-[Your Name](https://github.com/Deepadharshini1311)
+[Deepadharshini R](https://github.com/Deepadharshini1311)
 
